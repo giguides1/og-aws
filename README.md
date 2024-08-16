@@ -1705,6 +1705,7 @@ API Gateway
 
 - [Kong](https://getkong.org) is an open-source, on-premises API and microservices gateway built on nginx with Lua. Kong is extensible through “plugins”.
 - [Tyk](https://tyk.io) is an open-source API gateway implemented in Go and available in the cloud, on-premises or hybrid.
+- [Zuplo](https://zuplo.com) is a multicloud API gateway built on OpenAPI, available on the cloud or self-hosted. Zuplo is extensible through Typescript, with native support for Lambda proxying.
 
 [Back to top :arrow_up:](#table-of-contents)
 ### API Gateway Tips
